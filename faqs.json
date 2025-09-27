@@ -11,6 +11,10 @@
     "q": "Is Wi-Fi available on trams?",
     "a": "No, trams do not have Wi-Fi, but many tram stops in the CBD have free public Wi-Fi nearby."
   },
+   {
+    "q": "Can I charge my devices on the Tram",
+    "a": "No. Melbourne trams do not have USB ports or power outlets for charging devices. If you need to charge your phone or laptop, you’ll need to do so before boarding."
+  },
   {
     "q": "What should I do if I lose my Myki card?",
     "a": "If registered, report the lost card online or by phone to block it and transfer the balance to a new card."
